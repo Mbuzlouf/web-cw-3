@@ -30,6 +30,8 @@ th {
 
   border-color: red;
   text-align: center;
+  margin: auto;
+  width: 50%;
 }
 
 td:hover {
