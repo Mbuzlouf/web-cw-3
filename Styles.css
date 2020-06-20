@@ -1,0 +1,37 @@
+img {
+  display: block;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.PS4 {
+  background-color: lightskyblue;
+}
+
+.nintendo {
+  background-color: red;
+}
+
+.PC {
+  background-color: lightgreen;
+}
+
+.Platforms {
+  display: flex;
+}
+
+table,
+tr,
+td,
+th {
+  border: 1px solid;
+
+  border-color: red;
+  text-align: center;
+}
+
+td:hover {
+  background-color: gray;
+}
